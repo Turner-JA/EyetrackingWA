@@ -8,5 +8,5 @@ Description: This package is a quick work-around for those interested in using f
 License: None
 Encoding: UTF-8
 LazyData: true
-Imports:  dplyr,
+Depends:  dplyr,
           plyr
